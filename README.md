@@ -1,5 +1,5 @@
 # Search-filter
-This is Search filter site with full response for creating resume easily
+This is Search filter site with full response
 
 Search filter site using Html, Css, & JavaScript.
 
